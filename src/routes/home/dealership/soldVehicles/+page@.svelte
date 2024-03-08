@@ -1,6 +1,6 @@
 <script>
   
-    import InventoryCars from "$lib/components/inventoryCars.svelte";
+    import InventoryCars from "$lib/components/InventoryCars.svelte";
     import {inventory} from "$lib/stores/inventory";
     
     export let data;
