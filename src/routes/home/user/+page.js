@@ -1,4 +1,4 @@
-import { allCars } from '$lib/stores/allCars.js';
+import { allCars } from '$lib/stores/allcars.js';
 
 
 export const load = async (loadData) => {
