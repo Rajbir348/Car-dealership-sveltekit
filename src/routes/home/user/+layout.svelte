@@ -2,7 +2,7 @@
     
     export let data;
     
-    import Header from "../../../lib/components/Header.svelte";
+    import Header from "$lib/components/Header.svelte";
     const dealerships=data.data;
     
 </script>

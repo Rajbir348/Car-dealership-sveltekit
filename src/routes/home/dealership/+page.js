@@ -1,4 +1,4 @@
-import { inventory } from '../../../lib/stores/inventory.js';
+import { inventory } from '$lib/stores/inventory.js';
 
 export const load = async (loadData) => {
     const {fetch}=loadData;

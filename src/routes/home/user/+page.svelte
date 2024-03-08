@@ -1,6 +1,6 @@
 <script>
-    import Cars from "../../../lib/components/Cars.svelte";
-    import { allCars } from "../../../lib/stores/allcars";
+    import Cars from "$lib/components/Cars.svelte";
+    import { allCars } from "$lib/stores/allcars";
     export let data;
     
    
